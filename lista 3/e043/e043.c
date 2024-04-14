@@ -1,4 +1,4 @@
-*Foi feita uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes dados:
+/*Foi feita uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes dados:
 sexo (0-feminino, 1-masculino), idade e altura. Faça um programa que leia as informações coletadas
 e mostre as seguintes informações:
 a) média da idade do grupo;
